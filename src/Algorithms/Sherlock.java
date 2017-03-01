@@ -13,7 +13,7 @@ public class Sherlock {
             array[i] = sc.nextInt();
         }
         for (int i = 0; i < numberOfQuestions; i++) {
-            System.out.println(array[(sc.nextInt() - shift + array.length) % array.length]);
+            System.out.println(array[(sc.nextInt() - (shift % array.length) + array.length) % array.length]);
         }
         sc.close();
     }
