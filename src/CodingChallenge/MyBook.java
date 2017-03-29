@@ -1,7 +1,5 @@
 package CodingChallenge;
 
-import java.awt.print.Book;
-
 class MyBook extends Book {
     // Declare the price instance variable
     private int price;
