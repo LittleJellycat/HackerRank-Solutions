@@ -2,7 +2,9 @@
 
 Some of solutions to [HackerRank](https://www.hackerrank.com/) problems & challenges
 
-Solutions will be coded using Java 8
+Solutions are written in Java 8 (Sadly, no Kotlin support on HackerRank yet)
+
+Click on the green check mark for code of the challenge you are interested in. To read the task click on the link in the "Solution" column (Redirects to HackerRank)
 
 ## 30 Days of Code
 
