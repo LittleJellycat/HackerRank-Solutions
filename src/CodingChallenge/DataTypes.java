@@ -10,7 +10,6 @@ public class DataTypes {
 
         Scanner scan = new Scanner(System.in);
         int inInt = scan.nextInt();
-        //TODO
         scan.nextLine();
         double inDouble = scan.nextDouble();
         scan.nextLine();
