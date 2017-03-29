@@ -8,6 +8,8 @@ Click on the green check mark for code of the challenge you are interested in. T
 
 ## 30 Days of Code
 
+Be careful! HackerRank needs the main class to be named "Solution". In my examples the class names are changed for the sake of navigation and readability.
+
 | Day |                                       Challenge                                                         |                                                           Solution                                                                      |
 |:---:|:-------------------------------------------------------------------------------------------------------:|:------:|
 |  0  |[Hello, World](https://www.hackerrank.com/challenges/30-hello-world)                                     |[:heavy_check_mark:](https://github.com/LittleJellycat/HackerRank-Solutions/blob/master/src/CodingChallenge/HelloWorld.java) |
