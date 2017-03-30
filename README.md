@@ -15,6 +15,8 @@ Click on the green check mark for code of the challenge you are interested in. T
 *  [Warm Up](#warm-up)
 *  [Implementation](#implementation)
 #### Java
+#### Data Structures
+*  [Arrays](#arrays)
 
 ***
 
@@ -67,3 +69,12 @@ Also classes "Inheritance", "Abstract Classes" and "Scope" are *not* compilable,
 ***
 
 ## Java
+
+***
+
+## Data Structures
+
+### Arrays
+|     | Challenge                                                                          | Difficulty | Solution                                                                    |
+|:---:|:----------------------------------------------------------------------------------:|:----------:|:---------------------------------------------------------------------------:|
+|  6  |[Algorithmic Crush](https://www.hackerrank.com/challenges/crush)                    | Hard       |[:heavy_check_mark:](../blob/master/src/DataStructures/AlgorithmicCrush.java)|
