@@ -1,6 +1,6 @@
 # HackerRank-Solutions
 
-Some of solutions to [HackerRank](https://www.hackerrank.com/) problems & challenges
+Some solutions to [HackerRank](https://www.hackerrank.com/) problems & challenges
 
 Solutions are written in Java 8 (Sadly, no Kotlin support on HackerRank yet)
 
@@ -8,11 +8,13 @@ Click on the green check mark for code of the challenge you are interested in. T
 
 ***
 
-* Challenges
-  * 30 Days of Code
-* Algorithms
-  * Warm Up
-* Java
+## Table of Contents
+#### Challenges
+*  [30 Days of Code](#30-days-of-code)
+#### Algorithms
+*  [Warm Up](#warm-up)
+*  [Implementation](#implementation)
+#### Java
 
 ***
 
@@ -42,6 +44,25 @@ Also classes "Inheritance", "Abstract Classes" and "Scope" are *not* compilable,
 ***
 
 ## Algorithms
+
+### Warm Up
+|     | Challenge                                                                          | Difficulty | Solution |
+|:---:|:----------------------------------------------------------------------------------:|:----------:|:--------:|
+|  1  |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)              | Easy       | TBA      |
+|  2  |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)          | Easy       |[:heavy_check_mark:](../blob/master/src/Algorithms/SimpleArraySum.java)|
+|  3  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)  | Easy       |[:heavy_check_mark:](../blob/master/src/Algorithms/CompareTheTriplets.java)|
+|  4  |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)              | Easy       |[:heavy_check_mark:](../blob/master/src/Algorithms/AVeryBigSum.java)|
+|  5  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)    | Easy       |[:heavy_check_mark:](../blob/master/src/Algorithms/DiagonalDifference.java)|
+|  6  |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)                      | Easy       |[:heavy_check_mark:](../blob/master/src/Algorithms/PlusMinus.java)|
+|  7  |[Staircase](https://www.hackerrank.com/challenges/staircase)                        | Easy       |[:heavy_check_mark:](../blob/master/src/Algorithms/Staircase.java)|
+|  8  |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)                  | Easy       |[:heavy_check_mark:](../blob/master/src/Algorithms/MiniMaxSum.java)|
+|  9  |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)            | Easy       |[:heavy_check_mark:](../blob/master/src/Algorithms/TimeConversion.java)|
+|  10 |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| Easy       | TBA      |
+
+###Implementation
+|     | Challenge                                                                          | Difficulty | Solution |
+|:---:|:----------------------------------------------------------------------------------:|:----------:|:--------:|
+|  1  |[Grading Students](https://www.hackerrank.com/challenges/grading)                   | Easy       | TBA      |
 
 ***
 
