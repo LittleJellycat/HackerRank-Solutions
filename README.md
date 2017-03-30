@@ -64,8 +64,8 @@ Also classes "Inheritance", "Abstract Classes" and "Scope" are *not* compilable,
 ### Implementation
 |     | Challenge                                                                          | Difficulty | Solution |
 |:---:|:----------------------------------------------------------------------------------:|:----------:|:--------:|
-|  1  |[Grading Students](https://www.hackerrank.com/challenges/grading)                   | Easy       | TBA      |
-
+|  1  |[Grading Students](https://www.hackerrank.com/challenges/grading)                   | Easy       |[:heavy_check_mark:](../master/src/Algorithms/Grading.java) |
+|  2  |[Sherlock and Watson](https://www.hackerrank.com/challenges/circular-array-rotation)| Easy       |[:heavy_check_mark:](../master/src/Algorithms/Sherlock.java)|
 ***
 
 ## Java
