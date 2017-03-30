@@ -19,7 +19,7 @@ Click on the green check mark for code of the challenge you are interested in. T
 ***
 
 ## 30 Days of Code
-
+ 
 Be careful! HackerRank needs the main class to be named "Solution". In my examples the class names are changed for the sake of navigation and readability.
 Also classes "Inheritance", "Abstract Classes" and "Scope" are *not* compilable, since those are a part of hidden logic which you had to extend during this task. 
 
@@ -59,7 +59,7 @@ Also classes "Inheritance", "Abstract Classes" and "Scope" are *not* compilable,
 |  9  |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)            | Easy       |[:heavy_check_mark:](../blob/master/src/Algorithms/TimeConversion.java)|
 |  10 |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| Easy       | TBA      |
 
-###Implementation
+### Implementation
 |     | Challenge                                                                          | Difficulty | Solution |
 |:---:|:----------------------------------------------------------------------------------:|:----------:|:--------:|
 |  1  |[Grading Students](https://www.hackerrank.com/challenges/grading)                   | Easy       | TBA      |
