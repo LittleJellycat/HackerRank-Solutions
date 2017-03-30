@@ -14,6 +14,7 @@ Click on the green check mark for code of the challenge you are interested in. T
 #### Algorithms
 *  [Warm Up](#warm-up)
 *  [Implementation](#implementation)
+*  [Strings](#strings)
 #### Java
 #### Data Structures
 *  [Arrays](#arrays)
@@ -66,6 +67,12 @@ Also classes "Inheritance", "Abstract Classes" and "Scope" are *not* compilable,
 |:---:|:----------------------------------------------------------------------------------:|:----------:|:--------:|
 |  1  |[Grading Students](https://www.hackerrank.com/challenges/grading)                   | Easy       |[:heavy_check_mark:](../master/src/Algorithms/Grading.java) |
 |  2  |[Sherlock and Watson](https://www.hackerrank.com/challenges/circular-array-rotation)| Easy       |[:heavy_check_mark:](../master/src/Algorithms/Sherlock.java)|
+
+### Strings
+|     | Challenge                                                                          | Difficulty | Solution |
+|:---:|:----------------------------------------------------------------------------------:|:----------:|:--------:|
+|  1  |[CamelCase](https://www.hackerrank.com/challenges/camelcase)                        | Easy       |[:heavy_check_mark:](../master/src/Algorithms/CamelCase.java)|
+|  2  |[Pangrams](https://www.hackerrank.com/challenges/pangrams)                          | Easy       |[:heavy_check_mark:](../master/src/Algorithms/Pangrams.java) |
 ***
 
 ## Java
@@ -77,4 +84,6 @@ Also classes "Inheritance", "Abstract Classes" and "Scope" are *not* compilable,
 ### Arrays
 |     | Challenge                                                                          | Difficulty | Solution                                                                    |
 |:---:|:----------------------------------------------------------------------------------:|:----------:|:---------------------------------------------------------------------------:|
-|  6  |[Algorithmic Crush](https://www.hackerrank.com/challenges/crush)                    | Hard       |[:heavy_check_mark:](../master/src/DataStructures/AlgorithmicCrush.java)|
+|  1  |[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds)                      | Easy       |[:heavy_check_mark:](../master/src/DataStructures/ArraysDS.java)             |
+|  2  |[2D Arrays - DS](https://www.hackerrank.com/challenges/2d-array)                    | Easy       |[:heavy_check_mark:](../master/src/DataStructures/ArraysDS2D.java)           |
+|  6  |[Algorithmic Crush](https://www.hackerrank.com/challenges/crush)                    | Hard       |[:heavy_check_mark:](../master/src/DataStructures/AlgorithmicCrush.java)     |
