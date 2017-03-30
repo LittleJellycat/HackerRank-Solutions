@@ -61,7 +61,7 @@ Also classes "Inheritance", "Abstract Classes" and "Scope" are *not* compilable,
 |  9  |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)            | Easy       |[:heavy_check_mark:](../blob/master/src/Algorithms/TimeConversion.java)|
 |  10 |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| Easy       | TBA      |
 
-###Implementation
+### Implementation
 |     | Challenge                                                                          | Difficulty | Solution |
 |:---:|:----------------------------------------------------------------------------------:|:----------:|:--------:|
 |  1  |[Grading Students](https://www.hackerrank.com/challenges/grading)                   | Easy       | TBA      |
