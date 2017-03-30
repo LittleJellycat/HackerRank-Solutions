@@ -18,6 +18,7 @@ Click on the green check mark for code of the challenge you are interested in. T
 #### Java
 #### Data Structures
 *  [Arrays](#arrays)
+*  [Queues](#queues)
 
 ***
 
@@ -87,3 +88,8 @@ Also classes "Inheritance", "Abstract Classes" and "Scope" are *not* compilable,
 |  1  |[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds)                      | Easy       |[:heavy_check_mark:](../master/src/DataStructures/ArraysDS.java)             |
 |  2  |[2D Arrays - DS](https://www.hackerrank.com/challenges/2d-array)                    | Easy       |[:heavy_check_mark:](../master/src/DataStructures/ArraysDS2D.java)           |
 |  6  |[Algorithmic Crush](https://www.hackerrank.com/challenges/crush)                    | Hard       |[:heavy_check_mark:](../master/src/DataStructures/AlgorithmicCrush.java)     |
+
+### Queues
+|     | Challenge                                                                          | Difficulty | Solution                                                                    |
+|:---:|:----------------------------------------------------------------------------------:|:----------:|:---------------------------------------------------------------------------:|
+|  1  |[Truck Tour](https://www.hackerrank.com/challenges/truck-tour)                      | Hard       |[:heavy_check_mark:](../master/src/DataStructures/TruckTour.java)             |
