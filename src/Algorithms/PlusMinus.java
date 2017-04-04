@@ -1,27 +1,20 @@
 package Algorithms;
 
+import java.util.Map;
 import java.util.Scanner;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 public class PlusMinus {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int size = sc.nextInt();
-        int positiveCounter = 0;
-        int negativeCounter = 0;
-        int zeroesCounter = 0;
-        for (int i = 0; i < size; i++) {
-            int currentNumber = sc.nextInt();
-            if (currentNumber > 0) {
-                positiveCounter++;
-            } else if (currentNumber < 0) {
-                negativeCounter++;
-            } else {
-                zeroesCounter++;
-            }
-        }
-        System.out.println((double) (positiveCounter) / size + "\n"
-                + (double) (negativeCounter) / size + "\n"
-                + (double) (zeroesCounter) / size);
+        Map<Float, Long> collect = IntStream.range(0, size)
+                .map(i -> sc.nextInt()).boxed()
+                .collect(Collectors.groupingBy(Math::signum, Collectors.counting()));
+        System.out.println((double) (collect.get(1.0f)) / size);
+        System.out.println((double) (collect.get(0.f)) / size);
+        System.out.println((double) (collect.get(-1.0f)) / size);
         sc.close();
     }
 }
